@@ -968,3 +968,7 @@ array.release;
 /** delegate */
 @property (nonatomic, weak) id <IPCConnectHandlerDelegate> delegate;
 ```
+
+
+
+11
